@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Heartbeat</string>
+
+    <string name="BPM">\nBPM:</string>
+    <string name="AVG">\nAverage last 15 beats: </string>
+    <string name="lorem_num">70.0</string>
+</resources>
